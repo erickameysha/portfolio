@@ -15,7 +15,7 @@ function App() {
             <Skils/>
             <MyProjects/>
             <Contacts/>
-            {/*<Footer/>*/}
+            <Footer/>
         </div>
     );
 }
