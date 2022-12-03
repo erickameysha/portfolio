@@ -5,3 +5,8 @@
     justify-content: flex-end;
     align-items: center;
 }
+@media screen and (max-width: 743px ){
+.header{
+    justify-content: center;
+}
+}
